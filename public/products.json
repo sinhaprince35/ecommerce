@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Rice Idli",
+    "price": "₹ 81.00/-",
+    "images": "https://w7.pngwing.com/pngs/915/777/png-transparent-white-indian-rice-cakes-in-white-ceramic-plate-rava-idli-dosa-indian-cuisine-sambar-indian-food-food-recipe-cooking-thumbnail.png"
+  },
+  {
+    "id": 2,
+    "name": "Thali Regular - Dal Makhani, Seasonal Veg., Bread, Rice & One Dessert.",
+    "price": "₹ 196.00/-",
+    "images": "https://w7.pngwing.com/pngs/143/42/png-transparent-vegetarian-cuisine-indian-cuisine-raita-dal-makhani-roti-vegetable-food-recipe-breakfast.png"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Tikka Masala",
+    "price": "₹ 280.00/-",
+    "images": "https://e7.pngegg.com/pngimages/744/422/png-clipart-curry-indian-cuisine-chicken-tikka-masala-chicken-biriyani-soup-food-thumbnail.png"
+  },
+  {
+    "id": 4,
+    "name": "Veg. Fried Rice",
+    "price": "₹ 165.00/-",
+    "images": "https://e7.pngegg.com/pngimages/602/655/png-clipart-fried-rice-on-white-ceramic-bowl-yangzhou-fried-rice-yangzhou-fried-rice-food-vegetable-yangzhou-fried-rice-recipe-cooking.png"
+  },
+  {
+    "id": 5,
+    "name": "Roomali Roti with Paneer Tikka Masala",
+    "price": "₹ 250.00/-",
+    "images": "https://www.lekhafoods.com/media/202221/rumali-roti.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Maccroni",
+    "price": "₹ 119.00/-",
+    "images": "https://e7.pngegg.com/pngimages/223/1017/png-clipart-pasta-salad-macaroni-recipe-vegetable-dish-vegetable-food-chicken-meat.png"
+  },
+  {
+    "id": 7,
+    "name": "Steam Rice",
+    "price": "₹ 60.00/-",
+    "images": "https://e7.pngegg.com/pngimages/391/802/png-clipart-white-rice-in-bowl-cooked-rice-white-rice-food-rice-white-recipe.png"
+  },
+  {
+    "id": 8,
+    "name": "Egg Curry",
+    "price": "₹ 75.00/-",
+    "images": "https://png.pngtree.com/png-clipart/20230524/original/pngtree-anda-curry-or-egg-masala-gravy-png-image_9168545.png"
+  }
+]
